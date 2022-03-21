@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "H/aP9JmT+xmYP/+Qu/PT2xQ9hqdpXGJtzDypmfYAixF1wOzGeBOTihuHuUFv7O4Gv2N4oFl9ojXv3Li1SY/MsA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BlueBlood\\RiderProjects\\IS-3sem-OOP\\Lab2\\Isu.Extra\\Isu.Extra.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BlueBlood\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512",
+    "C:\\Users\\BlueBlood\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\BlueBlood\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\BlueBlood\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

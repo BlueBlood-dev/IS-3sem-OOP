@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "4NQRqyvI98A1cNbwZqdO+od5wnSbcWPMYv/LTUQJj0vMFn9vJ35zlxlkgYspTBlb/vzNCQjcjN9KS5SuPD10dQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BlueBlood\\RiderProjects\\IS-3sem-OOP\\Lab3\\Backups\\Backups.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BlueBlood\\.nuget\\packages\\aspose.zip\\22.10.0\\aspose.zip.22.10.0.nupkg.sha512",
+    "C:\\Users\\BlueBlood\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512",
+    "C:\\Users\\BlueBlood\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\BlueBlood\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512",
+    "C:\\Users\\BlueBlood\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\BlueBlood\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\BlueBlood\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

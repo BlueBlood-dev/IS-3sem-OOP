@@ -1,5 +1,6 @@
 ﻿namespace Isu.Extra.Exceptions;
 
+//dsdsdsdsdsdsdsds
 public class EnrollException : Exception
 {
     public EnrollException(string message)

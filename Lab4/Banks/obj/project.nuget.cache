@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "FGY+M/VLo2VBuoBhBdr8q8Yz8lMNIHOk7TC5PvRn1mSZxmnk5dNRLg9kZ4XGZB5ilyP3WvTdkBFrniApa16cKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BlueBlood\\RiderProjects\\IS-3sem-OOP\\Lab4\\Banks\\Banks.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BlueBlood\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512",
+    "C:\\Users\\BlueBlood\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\BlueBlood\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\BlueBlood\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
